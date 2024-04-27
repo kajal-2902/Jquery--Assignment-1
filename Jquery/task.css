@@ -1,0 +1,13 @@
+div{
+    border: solid 2px gray;
+    padding: 20px;
+  
+}
+p{
+    color: red;
+    margin-top: -20px;
+    margin-left : -20px;
+}
+.div1{
+    width: 500px;
+}
